@@ -1,2 +1,5 @@
 #Program wyswietlajacy napis "Hello World"
-print("Hello World")
+def main(msg):
+    print(msg)
+
+main("Hello World")
